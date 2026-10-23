@@ -340,6 +340,7 @@ sha256-verified. Fetch them with `cargo xtask corpus --all` and run the tests wi
 `cargo xtask test-corpus` (details in [docs/development.md](docs/development.md#test-corpora)).
 
 ## Downloads
+To build Windows packages for this fork, run the ArtCraft Launcher release workflow with a pinned source revision.
 
 **New to PhotoCraft?** Download it from the [PhotoCraft page on getartcraft.com](https://getartcraft.com/apps/photocraft). That's the easiest way to install it.
 
